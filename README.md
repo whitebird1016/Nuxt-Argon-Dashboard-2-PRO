@@ -196,33 +196,5 @@ We use GitHub Issues as the official bug tracker for the Nuxt Argon Dashboard 2 
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-nadp) instead of opening an issue.
 
-## Licensing
-
-- Copyright 2024 [Creative Tim](https://www.creative-tim.com?ref=readme-nadp)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-nadp)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-nadp) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-nadp) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-nadp) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
